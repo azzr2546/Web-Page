@@ -1,0 +1,19 @@
+
+*{
+    box-sizing: border-box;
+    font-style: italic;
+    font-family: Cursive;
+}
+
+form {
+    margin-top: 100px;
+    margin-left: 38%;
+    margin-right:38%;
+    width: 50%;
+}
+.fp{
+    margin-left: 28%;
+}
+.filesclr {
+    color: white;
+}
